@@ -11,3 +11,5 @@ Viene chiesto di inserire un numero intero del quale restituisce:
 
 Il programma termina quando viene inserito un numero negativo.
 Ignora tutti gli input che non sono numeri interi.
+
+Il programma implementa anche una versione per il calcolo del N-esimo elemento della serie di fibonacci, ma non viene utilizzato perchè genera facilmente overflow.
