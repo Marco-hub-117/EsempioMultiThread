@@ -34,6 +34,7 @@ public class ProgramStart {
 				System.out.println("ATTENZIONE! è stato inserito un valore non valido, inserire un numero intero");
 			}
 		}
+		
 	}
 
 }
